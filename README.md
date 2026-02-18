@@ -1,6 +1,6 @@
 by @playfulFence
 
-in Brno, Czech Rebublic
+in Prague, Czech Rebublic
 
 <!---
 playfulFence/playfulFence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
